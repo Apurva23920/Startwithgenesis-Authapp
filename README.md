@@ -1,10 +1,14 @@
-# ninja_brew_crew
+# User Authentication using Flutter and Firebase
 
-A new Flutter project.
+A basic Authentication application to authenticate users using email-password and phone-otp using Firebase.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+In your pubspec.yaml root add:
+
+dependencies:
+  firebase_auth:
+  cloud_firestore: 
 
 A few resources to get you started if this is your first Flutter project:
 
